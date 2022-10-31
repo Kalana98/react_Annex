@@ -1,0 +1,14 @@
+.btn {
+    margin-top: 60px;
+    height: 60px;
+    width: 600px;
+    padding-top: 30px;
+    border-radius: 7px 7px 7px 7px;
+    background-color: aqua;
+}
+
+.btn:hover {
+    background-color: #4CAF50;
+    /* Green */
+    color: white;
+}
